@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-project-sanbercode/static/css/main.4426910d.chunk.css",
+    "main.js": "/react-project-sanbercode/static/js/main.ddd13426.chunk.js",
+    "main.js.map": "/react-project-sanbercode/static/js/main.ddd13426.chunk.js.map",
+    "runtime-main.js": "/react-project-sanbercode/static/js/runtime-main.afcb7d81.js",
+    "runtime-main.js.map": "/react-project-sanbercode/static/js/runtime-main.afcb7d81.js.map",
+    "static/js/2.21f83874.chunk.js": "/react-project-sanbercode/static/js/2.21f83874.chunk.js",
+    "static/js/2.21f83874.chunk.js.map": "/react-project-sanbercode/static/js/2.21f83874.chunk.js.map",
+    "index.html": "/react-project-sanbercode/index.html",
+    "precache-manifest.7fbeca474c7ad3092b72c1187e24d882.js": "/react-project-sanbercode/precache-manifest.7fbeca474c7ad3092b72c1187e24d882.js",
+    "service-worker.js": "/react-project-sanbercode/service-worker.js",
+    "static/css/main.4426910d.chunk.css.map": "/react-project-sanbercode/static/css/main.4426910d.chunk.css.map",
+    "static/js/2.21f83874.chunk.js.LICENSE.txt": "/react-project-sanbercode/static/js/2.21f83874.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-project-sanbercode/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afcb7d81.js",
+    "static/js/2.21f83874.chunk.js",
+    "static/css/main.4426910d.chunk.css",
+    "static/js/main.ddd13426.chunk.js"
+  ]
+}
